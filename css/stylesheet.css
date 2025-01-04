@@ -1,0 +1,25 @@
+body{
+    background-color: greenyellow ;
+}
+#headers{
+    padding: 5px;
+}
+#headers h1{
+    font-family: cursive;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+#droupbox{
+    padding: 10px;
+    border-radius: 5px; 
+    width: 15%;
+}
+#loginbutton{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(15, 27, 136);
+    color: white;
+    border-radius: 5px;
+}
